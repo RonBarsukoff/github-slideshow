@@ -1,5 +1,5 @@
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welkom op onze tweede dia!"
 ---
 Mijn tekst
 Gebruik het pijltje naar links om terug te gaan!
